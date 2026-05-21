@@ -1,0 +1,24 @@
+{
+  "name": "StableNaira",
+  "symbol": "SNR",
+  "description": "Naira-pegged stablecoin (StableNaira / SNR) issued by SMC DAO. Bridged cross-chain via the StableNaira CCTP protocol — BSC, Ethereum, Base, Asset Chain, Polygon, Avalanche, Arbitrum, Optimism, Solana, and TON.",
+  "image": "https://raw.githubusercontent.com/stablenaira/branding/main/snr-logo-512.png",
+  "external_url": "https://stablenaira.com",
+  "attributes": [
+    { "trait_type": "Peg", "value": "Nigerian Naira (NGN)" },
+    { "trait_type": "Decimals", "value": "2" },
+    { "trait_type": "Issuer", "value": "SMC DAO" },
+    { "trait_type": "Bridge", "value": "StableNaira CCTP (burn-and-mint)" },
+    { "trait_type": "Chains", "value": "BSC · Ethereum · Base · Polygon · Avalanche · Arbitrum · Optimism · Asset Chain · Solana · TON" }
+  ],
+  "properties": {
+    "category": "fungible",
+    "creators": [],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/stablenaira/branding/main/snr-logo-512.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
